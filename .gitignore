@@ -1,3 +1,5 @@
+git init
+
 # http://www.gnu.org/software/automake
 
 Makefile.in
